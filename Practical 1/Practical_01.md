@@ -161,3 +161,11 @@ SELECT CNAME FROM DEPOSITE WHERE AMOUNT >4000;
 ![image](https://user-images.githubusercontent.com/81670997/174240759-76731687-2f49-4e91-801a-397bf3934f45.png)
 
 <hr>
+
+<b>9. Give name of customers who opened account after date '1-12-96'.</b>
+
+SELECT C_NAME FROM DEPOSITE WHERE DATE > ‘1-DEC-96’;
+
+![image](https://user-images.githubusercontent.com/81670997/174241090-5a891358-9740-400f-91c5-9f048545f837.png)
+
+<hr>

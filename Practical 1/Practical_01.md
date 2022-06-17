@@ -137,3 +137,11 @@ SELECT * FROM CUSTOMERS;
 ![image](https://user-images.githubusercontent.com/81670997/174240126-34cd66e8-163c-4a66-9f0d-f3dd78ef2ba9.png)
 
 <hr>
+
+<b>7. Give account no and amount of depositors.</b>
+
+SELECT ACT NO,AMOUNT FROM DEPOSIT;
+
+![image](https://user-images.githubusercontent.com/81670997/174240531-aca37d2e-8948-4e8f-8dd2-322b87123c3e.png)
+
+<hr>

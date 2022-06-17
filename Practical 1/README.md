@@ -114,6 +114,14 @@ DESC CUSTOMERS;
 
 <hr>
 
+<b>3. List all data from table DEPOSIT.</b>
+
+SELECT * FROM DEPOSIT;
+
+![image](https://user-images.githubusercontent.com/81670997/174239687-e55b55c0-0fe5-49d5-a482-1f59b5b62739.png)
+
+<hr>
+
 <b>8. Give name of depositors having amount greater than 4000.</b>
 
 SELECT CNAME FROM DEPOSITE WHERE AMOUNT >4000;

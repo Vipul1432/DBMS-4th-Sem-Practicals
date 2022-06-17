@@ -129,3 +129,11 @@ SELECT * FROM BORROW;
 ![image](https://user-images.githubusercontent.com/81670997/174239915-ee937390-8659-4865-8e7c-b0c869c7d8d5.png)
 
 <hr>
+
+<b>5. List all data from table CUSTOMERS.</b>
+
+SELECT * FROM CUSTOMERS;
+
+![image](https://user-images.githubusercontent.com/81670997/174240126-34cd66e8-163c-4a66-9f0d-f3dd78ef2ba9.png)
+
+<hr>

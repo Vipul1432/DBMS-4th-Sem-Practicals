@@ -113,3 +113,12 @@ DESC CUSTOMERS;
 ![image](https://user-images.githubusercontent.com/81670997/174236772-f4036306-c6e7-4ccc-a521-2635273116e1.png)
 
 <hr>
+
+<b>3. List all data from table DEPOSIT.</b>
+
+SELECT * FROM DEPOSIT;
+
+![image](https://user-images.githubusercontent.com/81670997/174239687-e55b55c0-0fe5-49d5-a482-1f59b5b62739.png)
+
+<hr>
+

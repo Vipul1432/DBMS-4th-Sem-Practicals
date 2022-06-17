@@ -113,3 +113,11 @@ DESC CUSTOMERS;
 ![image](https://user-images.githubusercontent.com/81670997/174236772-f4036306-c6e7-4ccc-a521-2635273116e1.png)
 
 <hr>
+
+<b>9. Give name of customers who opened account after date '1-12-96'.</b>
+
+SELECT C_NAME FROM DEPOSITE WHERE DATE > ‘1-DEC-96’;
+
+![image](https://user-images.githubusercontent.com/81670997/174241090-5a891358-9740-400f-91c5-9f048545f837.png)
+
+<hr>

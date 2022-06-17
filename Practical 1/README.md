@@ -130,6 +130,14 @@ SELECT * FROM BORROW;
 
 <hr>
 
+<b>5. List all data from table CUSTOMERS.</b>
+
+SELECT * FROM CUSTOMERS;
+
+![image](https://user-images.githubusercontent.com/81670997/174240126-34cd66e8-163c-4a66-9f0d-f3dd78ef2ba9.png)
+
+<hr>
+
 <b>8. Give name of depositors having amount greater than 4000.</b>
 
 SELECT CNAME FROM DEPOSITE WHERE AMOUNT >4000;

@@ -122,6 +122,14 @@ SELECT * FROM DEPOSIT;
 
 <hr>
 
+<b>4. List all data from table BORROW.</b>
+
+SELECT * FROM BORROW;
+
+![image](https://user-images.githubusercontent.com/81670997/174239915-ee937390-8659-4865-8e7c-b0c869c7d8d5.png)
+
+<hr>
+
 <b>8. Give name of depositors having amount greater than 4000.</b>
 
 SELECT CNAME FROM DEPOSITE WHERE AMOUNT >4000;

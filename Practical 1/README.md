@@ -138,6 +138,14 @@ SELECT * FROM CUSTOMERS;
 
 <hr>
 
+<b>6. List all data from table BRANCH.</b>
+
+SELECT * FROM BRANCH;
+
+![image](https://user-images.githubusercontent.com/81670997/174240330-87def592-27a2-4090-983b-7b1763360bc3.png)
+
+<hr>
+
 <b>8. Give name of depositors having amount greater than 4000.</b>
 
 SELECT CNAME FROM DEPOSITE WHERE AMOUNT >4000;

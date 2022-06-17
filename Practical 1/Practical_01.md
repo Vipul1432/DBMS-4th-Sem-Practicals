@@ -153,3 +153,11 @@ SELECT ACT NO,AMOUNT FROM DEPOSIT;
 ![image](https://user-images.githubusercontent.com/81670997/174240531-aca37d2e-8948-4e8f-8dd2-322b87123c3e.png)
 
 <hr>
+
+<b>8. Give name of depositors having amount greater than 4000.</b>
+
+SELECT CNAME FROM DEPOSITE WHERE AMOUNT >4000;
+
+![image](https://user-images.githubusercontent.com/81670997/174240759-76731687-2f49-4e91-801a-397bf3934f45.png)
+
+<hr>
